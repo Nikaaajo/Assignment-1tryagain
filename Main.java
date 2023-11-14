@@ -18,6 +18,7 @@ public class Main {
     slip1.setHoursWorked(myScanner.nextInt());
     System.out.println("");
     System.out.println("Thank you for your input, here is " + slip1.getEmployeeName() + "'s payment slip:");
+    
     System.out.println(testForGit+"This is a change to test for git.");
     
 //Calculations and print out

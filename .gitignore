@@ -1,0 +1,16 @@
+# General
+*.log
+*.swp
+*.out
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Java specific
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+hs_err_pid*
